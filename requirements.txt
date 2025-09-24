@@ -1,0 +1,7 @@
+streamlit
+requests
+python-docx
+pymupdf
+deepgram-sdk
+google-generativeai
+python-dotenv
